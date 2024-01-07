@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 #Exclude Vehicles
 Content/CitySampleVehicles/
+
+#Exclude Metahumans
+Content/MetaHumans/

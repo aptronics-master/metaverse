@@ -1,6 +1,0 @@
-2024/01/07-12:15:35.638 599c Creating DB F:/Unreal Engine/Proyects/GTA_Tutorial_Series/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/01/07-12:15:35.683 599c Reusing MANIFEST F:/Unreal Engine/Proyects/GTA_Tutorial_Series/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/07-12:16:20.598 7748 Level-0 table #5: started
-2024/01/07-12:16:20.603 7748 Level-0 table #5: 1167 bytes OK
-2024/01/07-12:16:20.606 7748 Delete type=0 #3
-2024/01/07-12:16:20.606 7748 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

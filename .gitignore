@@ -1,0 +1,20 @@
+# Unreal Engine 5 .gitignore
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.xcworkspace
+*.pdb
+*.obj
+*.o
+*.lib
+*.dll
+*.exe
+*.sh
+*.bat
+.DS_Store

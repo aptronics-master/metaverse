@@ -4,8 +4,11 @@ Build/
 DerivedDataCache/
 Intermediate/
 Saved/
+
+# VS/IDE files
 .vscode/
 .idea/
+.vs/
 *.sln
 *.suo
 *.xcworkspace
@@ -15,6 +18,13 @@ Saved/
 *.lib
 *.dll
 *.exe
+*.vcxproj*
+*.opensdf
+*.sdf
+
+# Scripts
 *.sh
 *.bat
+
+# OS files
 .DS_Store

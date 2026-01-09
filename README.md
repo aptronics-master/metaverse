@@ -1,4 +1,4 @@
-# Metaver
+# Metaverse
 Welcome to the core authentication module of **Metaverse**, a state-of-the-art simulator game designed for immersive learning and professional training. 
 
 This repository houses the **AWS-powered Login System**, which serves as the primary authentication gateway to the entire Metaverse ecosystem.

@@ -9,8 +9,8 @@ This repository houses the **AWS-powered Login System**, which serves as the pri
 
 The **Metaverse** is part of a larger, high-performance educational infrastructure designed for real-time synchronization and tracking:
 
-*   **Simulator Game (Metaverse)**: [https://github.com/aptronics-master/metaverse.git](https://github.com/aptronics-master/metaverse.git)
-*   **Learning Management System (Nexus LMS)**: [https://github.com/aptronics-master/nexus.git](https://github.com/aptronics-master/nexus.git)
+*   **Simulator Game (Metaverse)**: [https://github.com/aptronics-master/metaverse.git]
+*   **Learning Management System (Nexus LMS)**: [https://github.com/aptronics-master/nexus.git]
 
 ### 🔄 Nexus LMS & SCORM Synchronization
 The Metaverse simulator is fully integrated with **Nexus LMS** for seamless educational tracking and reporting:

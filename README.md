@@ -1,5 +1,4 @@
-# 🌐 Metaverse: Premium Simulator Game (Login System)
-
+# Metaver
 Welcome to the core authentication module of **Metaverse**, a state-of-the-art simulator game designed for immersive learning and professional training. 
 
 This repository houses the **AWS-powered Login System**, which serves as the primary authentication gateway to the entire Metaverse ecosystem.
@@ -20,20 +19,6 @@ The Metaverse simulator is fully integrated with **Nexus LMS** for seamless educ
 *   **Real-time Score Sync**: Every score and performance metric obtained by the user within the **Metaverse** simulator is automatically synchronized and displayed within the **Nexus LMS**.
 *   **Performance Monitoring**: Instructors can monitor student progress and performance in real-time, directly from the Nexus dashboard.
 
----
-
-## 🚀 Login System Features
-
-As the foundational module for the Metaverse, the **AWS Login System** provides:
-
--   ✨ **Seamless Registration**: High-performance signup flow with email and password.
--   🔒 **Secure Verification**: Robust email verification via AWS Cognito confirmation codes.
--   🏎️ **High-Security Login**: State-of-the-art authentication against AWS Cognito User Pools.
--   🛠️ **Password Management**: Integrated forgot/reset password workflows for maximum user reliability.
--   🎨 **Premium UI**: Sleek, modern Unreal Engine UMG widgets designed for a premium "Metaverse" aesthetic.
--   🔌 **Blueprint-First Architecture**: Fully customizable logic for Unreal Engine developers, optimized for simulator integration.
-
----
 
 ## 📂 Project Structure (Login Module)
 
@@ -74,11 +59,5 @@ To connect this system to your AWS backend:
 2.  **Logic**: The system communicates with AWS via REST API calls. On success, it returns tokens which can be stored in a `GameInstance` or `SaveGame` for session management and LMS sync.
 3.  **Customization**: All UI elements are standard UMG widgets. Design can be modified in the `Content` folder.
 
----
 
-## 📝 License & Attribution
-
-This project is a critical component of the [Metaverse Simulator](https://github.com/aptronics-master/metaverse.git).
-
----
 *Developed by Aptronics.*

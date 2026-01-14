@@ -1,0 +1,1 @@
+../../../GTA_Tutorial_Series/GTA_Tutorial_Series.uproject -opengl

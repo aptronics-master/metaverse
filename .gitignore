@@ -1,10 +1,12 @@
-# Unreal Engine 5 GitIgnore
-Binaries/*
-Build/*
-DerivedDataCache/*
-Intermediate/*
-Saved/*
-Architecture/*
+# Unreal Engine GitIgnore
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Architecture/
+Android_ASTC/
+Mac/
 
 # IDEs
 .vscode/
@@ -24,3 +26,7 @@ Architecture/*
 # Python
 __pycache__/
 *.pyc
+
+# Project Specific
+AWSLoginSystem/
+Metaverse/

@@ -1,0 +1,26 @@
+# Unreal Engine 5 GitIgnore
+Binaries/*
+Build/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+Architecture/*
+
+# IDEs
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Mac specific
+.DS_Store
+*.app
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
